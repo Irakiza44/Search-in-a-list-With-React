@@ -38,3 +38,8 @@ section{
   display: inline-flex;
   flex-wrap: wrap;
 }
+.loading{
+  margin: 20px;
+  padding: 20px;
+  font-size: 40px;
+}
